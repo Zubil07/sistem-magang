@@ -292,7 +292,7 @@ https://templatemo.com/tm-575-leadership-event
                                         <div class="speakers-info">
                                             <h5 class="speakers-title mb-0">Ijat</h5>
 
-                                            <p class="speakers-text mb-0">Top Level Speaker</p>
+                                            <p class="speakers-text mb-0">Top pret Speaker</p>
 
                                             <ul class="social-icon">
                                                 <li><a href="#" class="social-icon-link bi-instagram"></a></li>
