@@ -234,7 +234,7 @@ https://templatemo.com/tm-575-leadership-event
                                         <img src="/images/avatar/2.jpg" class="img-fluid speakers-image" alt="">
 
                                         <div class="speakers-info">
-                                            <h5 class="speakers-title mb-0">Echa</h5>
+                                            <h5 class="speakers-title mb-0">ZUBIL</h5>
 
                                             <p class="speakers-text mb-0">Support</p>
 
@@ -252,7 +252,7 @@ https://templatemo.com/tm-575-leadership-event
                                         <img src="/images/avatar/3.jpg" class="img-fluid speakers-image" alt="">
 
                                         <div class="speakers-info">
-                                            <h5 class="speakers-title mb-0">Zubil</h5>
+                                            <h5 class="speakers-title mb-0">ECHA</h5>
 
                                             <p class="speakers-text mb-0">MAGE</p>
 
@@ -270,7 +270,7 @@ https://templatemo.com/tm-575-leadership-event
                                         <img src="/images/avatar/4.jpg" class="img-fluid speakers-image" alt="">
 
                                         <div class="speakers-info">
-                                            <h5 class="speakers-title mb-0">Awi</h5>
+                                            <h5 class="speakers-title mb-0">ARI</h5>
 
                                             <p class="speakers-text mb-0">TANK</p>
 
@@ -290,7 +290,7 @@ https://templatemo.com/tm-575-leadership-event
                                         <img src="/images/avatar/5.jpg" class="img-fluid speakers-image" alt="">
 
                                         <div class="speakers-info">
-                                            <h5 class="speakers-title mb-0">Izul</h5>
+                                            <h5 class="speakers-title mb-0">Ijat</h5>
 
                                             <p class="speakers-text mb-0">Top Level Speaker</p>
 
